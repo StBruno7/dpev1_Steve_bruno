@@ -1,2 +1,1 @@
-# dpev1_Steve_bruno
-Parcial uno Didactica 
+En este parcial se realizar programación orienta a objetos y se crean atributos para ciudad, estado, pais y continente. 
